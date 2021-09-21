@@ -15,7 +15,7 @@ This case is designed to be as flat as possible, to reduce height of the keyboar
 
 ### Features of the case
 - Gasket mounted
-- split in the middle, so can be printed on normal sized printes (biggest part is 208x136mm)
+- split in the middle, so can be printed on middle sized printes (biggest part is 208x136mm)
 - Typing angles: -6, 0, 6 degrees
 - High profile, no floating keycaps
 
@@ -27,10 +27,10 @@ This case is designed to be as flat as possible, to reduce height of the keyboar
 
 ---
 ## Hardware needed
-- Printed Case (obviously)
+- Printed Case (obviously), feet optional, only needed for a typing angle other than 0 degree
 - 10x (+4x) M3x5,7mm Heat-Set Inserts for Plastic [(like this)](https://www.mcmaster.com/threaded-inserts/heat-set-inserts-for-plastic-7/thread-type~metric/)
 - If you want the keyboard at an angle, you need 4 pcs inserts extra for the feet
-- 10x (+4x) M3x20 button head screws (ISO 7380 or similar. But not ISO 4762, they are too tall!) 
+- 10x M3x20 button head screws (ISO 7380 or similar. But not ISO 4762, they are too tall!) 
 - 2mm EPDM foam or similar for the gaskets
 - some glue for the gaskets
 - scissors for cutting the gaskets
