@@ -45,6 +45,14 @@ I did not print this version yet. I printed version 1.0 and no major changes wer
 
 ---
 
+## Printing tips
+- Please use support for the top left and bottom left part. But only on the connectors (dovetails). Not everywhere.
+- When printing in PLA with the powder coated bed (Prusa) I would recommend using a brim. Otherwise warping might occur.
+- The tabs for the screws will be cut by the screws. So maybe increase the perimeters a little.
+- The dovetail connections are tight, tight, tight, so a well calibrated printer might be necessary. Also: they are not easy to disassemble. 
+
+---
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
