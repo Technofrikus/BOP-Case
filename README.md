@@ -13,7 +13,8 @@ A 3D-printed gasket mounted, invertable case for the BOP keyboard
 
 This case is designed to be as flat as possible, to reduce height of the keyboard for better typing. The bottom plate and the standoffs have to be removed. Only the top plate and PCB are used.
 
-**Untested Detail**
+**Untested Detail:**
+
 I used Millmax-Sockets to mount the Teensy as low as possible to the PCB (not a good idea, it moves too easily in the sockets and looses connection from time to time). So I dont know what the normal height of the Teensy is when mounted the default way. There is 8,8mm space between the PCB and the lower case. Please doublecheck that your Teensy is not higher.
 
 ### Version 1.1
@@ -29,6 +30,7 @@ I did not print this version yet. I printed version 1.0 and no major changes wer
 ---
 
 [3D files of the case](3D-files/)
+
 [More pictures](pictures/)
 
 
