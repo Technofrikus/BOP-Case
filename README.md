@@ -39,6 +39,7 @@ I did not print this version yet. I printed version 1.0 and no major changes wer
 - Printed Case (obviously), feet optional, only needed for a typing angle other than 0 degree
 - 10x M3x20 button head screws (ISO 7380 or similar. But not ISO 4762, they are too tall!) 
 - 4x M3x5 screws to mount the feet (slightly longer or shorter length work as well)
+- 8x 6mm rubber feet
 - 2mm EPDM foam or similar for the gaskets
 - some glue for the gaskets
 - scissors for cutting the gaskets
