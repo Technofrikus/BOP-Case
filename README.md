@@ -25,7 +25,7 @@ I used Millmax-Sockets to mount the Teensy as low as possible to the PCB (not a 
 
 ---
 
-[3D files of the case](3D files/)
+[3D files of the case](3D-files/)
 
 
 ---
