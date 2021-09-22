@@ -3,7 +3,7 @@ A 3D-printed gasket mounted, invertable case for the BOP keyboard
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-PICTURE
+<img src="https://github.com/Technofrikus/BOP-Case/blob/main/pictures/Bop%20case%201.png?raw=true" alt="header" width="800"/>
 
 
 ---
