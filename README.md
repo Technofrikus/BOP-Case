@@ -13,6 +13,10 @@ PICTURE
 
 This case is designed to be as flat as possible, to reduce height of the keyboard for better typing. The bottom plate and the standoffs have to be removed. Only the top plate and PCB are used.
 
+**Untested Detail**
+I used Millmax-Sockets to mount the Teensy as low as possible to the PCB (not a good idea, it moves too easily in the sockets and looses connection from time to time). So I dont know what the normal height of the Teensy is when mounted the default way. There is 8,8mm space between the PCB and the lower case. Please doublecheck that your Teensy is not higher.
+
+
 ### Features of the case
 - Gasket mounted
 - split in the middle, so can be printed on middle sized printes (biggest part is 208x136mm)
@@ -28,13 +32,11 @@ This case is designed to be as flat as possible, to reduce height of the keyboar
 ---
 ## Hardware needed
 - Printed Case (obviously), feet optional, only needed for a typing angle other than 0 degree
-- 10x (+4x) M3x5,7mm Heat-Set Inserts for Plastic [(like this)](https://www.mcmaster.com/threaded-inserts/heat-set-inserts-for-plastic-7/thread-type~metric/)
-- If you want the keyboard at an angle, you need 4 pcs inserts extra for the feet
 - 10x M3x20 button head screws (ISO 7380 or similar. But not ISO 4762, they are too tall!) 
+- 4x M3x5 screws to mount the feet
 - 2mm EPDM foam or similar for the gaskets
 - some glue for the gaskets
 - scissors for cutting the gaskets
-- Soldering iron for putting in the inserts
 
 ---
 
