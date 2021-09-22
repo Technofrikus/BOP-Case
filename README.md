@@ -33,7 +33,7 @@ I used Millmax-Sockets to mount the Teensy as low as possible to the PCB (not a 
 ## Hardware needed
 - Printed Case (obviously), feet optional, only needed for a typing angle other than 0 degree
 - 10x M3x20 button head screws (ISO 7380 or similar. But not ISO 4762, they are too tall!) 
-- 4x M3x5 screws to mount the feet
+- 4x M3x5 screws to mount the feet (slightly longer or shorter length work as well)
 - 2mm EPDM foam or similar for the gaskets
 - some glue for the gaskets
 - scissors for cutting the gaskets
