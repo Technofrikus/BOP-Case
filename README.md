@@ -3,7 +3,7 @@ A 3D-printed gasket mounted, invertable case for the BOP keyboard
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<img src="https://github.com/Technofrikus/BOP-Case/blob/main/pictures/Bop%20case%201.png?raw=true" alt="header" width="800"/>
+<img src="https://github.com/Technofrikus/BOP-Case/blob/main/pictures/Bop%20case%206.jpg?raw=true" alt="header" width="800"/>
 
 
 ---
@@ -25,9 +25,8 @@ I used Millmax-Sockets to mount the Teensy as low as possible to the PCB (not a 
 
 ---
 
-[STEP files for the case](step/)
+[3D files of the case](3D files/)
 
-[STL files for the case](stl/)
 
 ---
 ## Hardware needed
